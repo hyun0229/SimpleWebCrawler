@@ -18,3 +18,4 @@ for i in range(num): #페이지 수 만큼 반복
     for title in titles:
         count += 1
         print(f"[{count}th", title.get_text()) #기사 제목 출력
+ㅠ
